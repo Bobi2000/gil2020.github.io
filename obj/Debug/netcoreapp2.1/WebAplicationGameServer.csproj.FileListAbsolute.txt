@@ -1,0 +1,14 @@
+C:\Users\Bobi\source\repos\WebAplicationGameServer\WebAplicationGameServer\bin\Debug\netcoreapp2.1\WebAplicationGameServer.deps.json
+C:\Users\Bobi\source\repos\WebAplicationGameServer\WebAplicationGameServer\bin\Debug\netcoreapp2.1\WebAplicationGameServer.runtimeconfig.json
+C:\Users\Bobi\source\repos\WebAplicationGameServer\WebAplicationGameServer\bin\Debug\netcoreapp2.1\WebAplicationGameServer.runtimeconfig.dev.json
+C:\Users\Bobi\source\repos\WebAplicationGameServer\WebAplicationGameServer\bin\Debug\netcoreapp2.1\WebAplicationGameServer.dll
+C:\Users\Bobi\source\repos\WebAplicationGameServer\WebAplicationGameServer\bin\Debug\netcoreapp2.1\WebAplicationGameServer.pdb
+C:\Users\Bobi\source\repos\WebAplicationGameServer\WebAplicationGameServer\obj\Debug\netcoreapp2.1\WebAplicationGameServer.csprojAssemblyReference.cache
+C:\Users\Bobi\source\repos\WebAplicationGameServer\WebAplicationGameServer\obj\Debug\netcoreapp2.1\WebAplicationGameServer.csproj.CoreCompileInputs.cache
+C:\Users\Bobi\source\repos\WebAplicationGameServer\WebAplicationGameServer\obj\Debug\netcoreapp2.1\WebAplicationGameServer.RazorAssemblyInfo.cache
+C:\Users\Bobi\source\repos\WebAplicationGameServer\WebAplicationGameServer\obj\Debug\netcoreapp2.1\WebAplicationGameServer.RazorAssemblyInfo.cs
+C:\Users\Bobi\source\repos\WebAplicationGameServer\WebAplicationGameServer\obj\Debug\netcoreapp2.1\WebAplicationGameServer.AssemblyInfoInputs.cache
+C:\Users\Bobi\source\repos\WebAplicationGameServer\WebAplicationGameServer\obj\Debug\netcoreapp2.1\WebAplicationGameServer.AssemblyInfo.cs
+C:\Users\Bobi\source\repos\WebAplicationGameServer\WebAplicationGameServer\obj\Debug\netcoreapp2.1\WebAplicationGameServer.RazorTargetAssemblyInfo.cache
+C:\Users\Bobi\source\repos\WebAplicationGameServer\WebAplicationGameServer\obj\Debug\netcoreapp2.1\WebAplicationGameServer.dll
+C:\Users\Bobi\source\repos\WebAplicationGameServer\WebAplicationGameServer\obj\Debug\netcoreapp2.1\WebAplicationGameServer.pdb
